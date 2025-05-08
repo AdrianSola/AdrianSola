@@ -21,7 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/>
-  <img src="https://avatars.githubusercontent.com/u/16461296?s=200&v=4" height="40" alt="Blynk"/>
+  <img src="https://imgs.search.brave.com/f2xc6NhWxzqZOLdIkwWxTFk3YRj2_nKE1M-Ovhkfdm4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS82/MjcyZTExNjAxYzll/Mjk2YmVjZGUwN2Iv/NjY1ZDNlMjM3MDNm/ZmY1MDUzNmZjYWU4/X2JseW5rLWxvZ28t/Z3JlZW4uc3Zn" height="40" alt="Blynk"/>
+
 </p>
 
 ## 🏆 Highlights
