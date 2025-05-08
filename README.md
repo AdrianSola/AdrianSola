@@ -21,10 +21,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi"/>
+  <img src="https://avatars.githubusercontent.com/u/16461296?s=200&v=4" height="40" alt="Blynk"/>
 </p>
 
 ## 🏆 Highlights
 - 🛠 Developed a full-stack web app at **UNIDESA (CIRSA Group)** connected to real gaming machines and cloud infrastructure.
+- 🌐 Built a lightweight **IoT system** using **Raspberry Pi** and **Blynk** to send and visualize live data from machines.
 - 🤖 6 years of experience in **robotics competitions**, with international representation in Louisville and Dallas.
 - 👨‍🏫 Former **robotics teacher** for children (ages 9–12), helping them learn logic and teamwork.
 
