@@ -1,12 +1,12 @@
 # Hello there!
 
-🎓 Second-year Software Development student at [Epitech Barcelona](https://www.epitech.eu), passionate about real-world projects, robotics, and cloud-connected systems.
+Third-year Software Development student at [Epitech Barcelona](https://www.epitech.eu), passionate about real-world projects, robotics, and cloud-connected systems.
 
-🌍 I'm based in **Spain** and currently seeking opportunities to grow through hands-on internships and collaborative projects.
+I'm based in **Spain** and currently seeking opportunities to grow through hands-on internships and collaborative projects.
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
@@ -25,15 +25,15 @@
 
 </p>
 
-## 🏆 Highlights
-- 🛠 Developed a full-stack web app at **UNIDESA (CIRSA Group)** connected to real gaming machines and cloud infrastructure.
-- 🌐 Built a lightweight **IoT system** using **Raspberry Pi** and **Blynk** to send and visualize live data from machines.
-- 🤖 6 years of experience in **robotics competitions**, with international representation in Louisville and Dallas.
-- 👨‍🏫 Former **robotics teacher** for children (ages 9–12), helping them learn logic and teamwork.
+## Highlights
+- Developed a full-stack web app at **UNIDESA (CIRSA Group)** connected to real gaming machines and cloud infrastructure.
+- Built a lightweight **IoT system** using **Raspberry Pi** and **Blynk** to send and visualize live data from machines.
+- 6 years of experience in **robotics competitions**, with international representation in Louisville and Dallas.
+- Former **robotics teacher** for children (ages 9–12), helping them learn logic and teamwork.
 
-## 📫 Contact Info
-- 📧 [adrian.sola-merino@epitech.eu](mailto:adrian.sola-merino@epitech.eu)
-- 💼 [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-sol%C3%A1-merino-26933129b/)
-- 🧠 Always open to learning, teaching, and collaborating.
+## Contact Info
+- [adrian.sola-merino@epitech.eu](mailto:adrian.sola-merino@epitech.eu)
+- [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-sol%C3%A1-merino-26933129b/)
+- Always open to learning, teaching, and collaborating.
 
 ---
